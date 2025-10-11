@@ -18,7 +18,5 @@ public class Main {
         kumar.setCourseFollowing("oop");
 
         System.out.println("student Details:\n"+"Name: "+ kumar.getStudentName()+"\nDegree: "+kumar.getDegreeName()+"\nCourse: "+kumar.getCourseFollowing());
-
-
     }
 }
