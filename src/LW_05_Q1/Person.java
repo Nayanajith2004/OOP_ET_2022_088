@@ -1,0 +1,10 @@
+package LW_05_Q1;
+
+public class Person {
+    private String name;
+
+    public Person(String name) {
+        this.name = name;
+    }
+
+}
